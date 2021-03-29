@@ -1,11 +1,11 @@
 
-  # **Professional README Generator**
+  # **Professional README Generator **
   
   ## Licensing: 
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description 
-  This project uses the command line to quickly create a README file.
+  This project allows you yo quickly create a README file using the command line for any project.
   ## Table of contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -16,9 +16,9 @@
   - [Repository Link](#Repository)
   - [GitHub Info](#GitHub) 
   ## Installation
-          This project requires that you install node, inquirer, and axios.
+          For this project you need to install node, inquirer, and axios.
   ## Usage
-  This project is used to change code into readable English so the reader is able to read the text easier.
+  This project is used to create a README file so code is changes int readable English. This will make it easier for the reader to read the text.
   ## Licence
   undefined
   ## Contributors
@@ -27,9 +27,8 @@
   
   ## Repository
   - [Project Repo](https://github.com/Caroline1418/README-generator-9)
-  ## GitHub
-  ![Image of me](https://avatars.githubusercontent.com/u/76709546?v=4)
-  - null
+  ## GitHubs
   - [GitHub Profile](https://github.com/Caroline1418)
-  - <null>
+
+![](Readme-generator.gif)
   
